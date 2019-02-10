@@ -17,7 +17,7 @@ const DUMMY_DATA = [
     },
     {
         senderId: 'perborgen',
-        text: 'Good to hear! I am great as well'
+        text: 'Good to hear! I am great as'
     }
 ]
 
